@@ -1,1 +1,2 @@
-# github_5_merge_-_conflicts
+REMOTE
+Ce dépôt contient un projet que je vais développer.
